@@ -332,7 +332,7 @@ body{
 .albumContainer{
     top: 52px;
     position: absolute;
-    overflow-y: hidden;
+    overflow-y: scroll;
     width: 99%;
     background-color: rgba(0,0,0, 0.5);
     color: rgb(255,255,255);
